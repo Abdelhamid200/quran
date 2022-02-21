@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "597574248930",
+    "project_id": "quran-ed9f4",
+    "storage_bucket": "quran-ed9f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597574248930:android:c2f397579ae04dec59f1bb",
+        "android_client_info": {
+          "package_name": "com.task.quran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597574248930-qurk5jodovgshpc0u8iuvo8fj3ci8kai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADELBLSR_3l-BUnoCmwWRh0HzTPTZcoqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597574248930-qurk5jodovgshpc0u8iuvo8fj3ci8kai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
